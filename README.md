@@ -1,3 +1,11 @@
+Get MyOpenWeatherMapApiKey from http://openweathermap.org/api and place in gradle.properties at
+
+MyOpenWeatherMapApiKey="place key here"
+
+
+
+
+
 Advanced Android Sample App
 ===================================
 
